@@ -1,5 +1,6 @@
 # Các thông số và thu việc cần thiết cho mối trường DEV
-1. Hệ thống Backend
+1. Hệ thống Backend:
+
   a. Các thư việc, môi trường cần thiết
     -  JDK >= 11 : Oracle JDK 11 / OpenJDK 11
     -  DB server; MariaDB >= 10.4  / mySQL >= 5.7 
@@ -17,7 +18,8 @@
     - Fineract Source: https://github.com/MidasHub/Midas_Fineract_Commercial.git
     - Telegram Bot: https://github.com/MidasHub/Telegrambot.git
 
-2. Hệ thống Frontend
+2. Hệ thống Frontend:
+
     a. Các thu viện, môi trường cần thiết
         - [`git`](https://git-scm.com/downloads)
 
@@ -31,7 +33,10 @@
         - Front End: https://github.com/MidasHub/Midas_UI_Commercial.git
 
 3. IDE : STS 4
+
     - Link download: https://spring.io/tools
 
 4. Link download from Google Drive:
+
   - https://drive.google.com/drive/folders/1A2qbxoRftgodBvtv5uv3IgLqvae_2rs9?usp=sharing
+
